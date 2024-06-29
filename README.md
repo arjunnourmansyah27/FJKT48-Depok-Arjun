@@ -38,10 +38,6 @@ Buka file `index.html` di peramban Anda untuk melihat website.
 ```plaintext
 FJKT48-Depok/
 ├── index.html
-├── services.html
-├── event.html
-├── gallery.html
-├── contact.html
 ├── css/
 │   └── styles.css
 ├── js/
